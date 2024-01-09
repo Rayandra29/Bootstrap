@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(221, 199, 0);
+  font-family: "Vollkorn";
+}
+
+#navbar {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+#navbar .nav-link {
+  color: white;
+}
+#navbar .nav-link:hover {
+  color: rgb(76, 12, 224);
+}
+
+#navbar .navbar-brand {
+  color: rgb(76, 12, 224);
+}
